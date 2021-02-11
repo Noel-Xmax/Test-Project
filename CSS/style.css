@@ -1,29 +1,23 @@
 h1{
-  color: azure;
+  font-size: medium;
+  color: blue;
   background-color: black;
   text-decoration: underline;
-  text-align: center;
-  
 }
 h2{
-  color:grey;
-  background-color: black;
-  text-decoration: ;border: groove;
+  text-decoration: wavy;
   text-align: center;
+  text-emphasis:unset;
+}
+p1{
+  float: left;
 
 }
-body{
-  text-align: center;
-  background-color: blue;
-
+p2{
+  font-family: cursive;
+  font-weight: 500;
+  display: inline;
 }
-p{
-  color:white;
-  text-decoration: unset;
-  text-decoration: whitesmoke;
-}
-@media screen and (min-width:400px)
 body{
-  backgroun-color: green;
-  color:blank;
+  background-color: teal;
 }
