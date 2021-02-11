@@ -14,4 +14,16 @@ h2{
 }
 body{
   text-align: center;
+  background-color: blue;
+
+}
+p{
+  color:white;
+  text-decoration: unset;
+  text-decoration: whitesmoke;
+}
+@media screen and (min-width:400px)
+body{
+  backgroun-color: green;
+  color:blank;
 }
